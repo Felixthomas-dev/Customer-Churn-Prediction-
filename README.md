@@ -103,7 +103,7 @@ Multiple machine learning models were used, including:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Felixthomas-dev/Customer-Churn-Prediction-.git
+    git clone https://github.com/Felixthomas-dev/Customer-Churn-Prediction-
     ```
 2. Install required libraries:
     ```bash
